@@ -1,4 +1,4 @@
-#include "raylib.h"
+#include "ray-lib/raylib.h"
 #define MINIAUDIO_IMPLEMENTATION
 #include "miniaudio.h"
 #include <stdio.h>
