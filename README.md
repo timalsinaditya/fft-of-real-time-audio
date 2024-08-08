@@ -25,3 +25,7 @@ clang main.c -o main -lpthread -lraylib -lm && ./main
 5. H - Implement High Pass Filter
 6. N - No filter
 7. Up and Down Arrow - To adjust the cutoff frequency 
+
+```
+
+![Description of the screenshot](screenshot.png)
